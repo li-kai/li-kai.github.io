@@ -2,19 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://li-kai.github.io/post/resume/</loc>
-    <lastmod>2017-01-10T21:23:08+08:00</lastmod>
+    <loc>https://li-kai.github.io/about/</loc>
+    <lastmod>2017-01-11T00:03:50+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://li-kai.github.io/</loc>
-    <lastmod>2017-01-10T21:23:08+08:00</lastmod>
+    <loc>https://li-kai.github.io/resume/</loc>
+    <lastmod>2017-01-10T22:52:53+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://li-kai.github.io/fixed/</loc>
+    <lastmod>2017-01-11T00:03:50+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://li-kai.github.io/post/</loc>
-    <lastmod>2017-01-10T21:23:08+08:00</lastmod>
+    <loc>https://li-kai.github.io/</loc>
+    <lastmod>2017-01-11T00:03:50+08:00</lastmod>
     <priority>0</priority>
   </url>
   
