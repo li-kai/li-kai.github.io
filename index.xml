@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kai</title>
+    <link>https://li-kai.github.io/index.xml</link>
+    <description>Recent content on Kai</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 14 Jan 2017 02:23:07 +0800</lastBuildDate>
+    <atom:link href="https://li-kai.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>NUSMods API</title>
+      <link>https://li-kai.github.io/projects/nusmods-api/</link>
+      <pubDate>Fri, 13 Jan 2017 03:15:29 +0800</pubDate>
+      
+      <guid>https://li-kai.github.io/projects/nusmods-api/</guid>
+      <description>&lt;p&gt;Backend of NUSMods which scrapes and consolidates data from various endpoints of different formats - JSON, web pages and pdfs. The data is exposed as both a RESTful and GraphQL API. I contributed by rewriting and improving the code base and also wrote a lexer and parser which transforms human written text into data.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>NUSMods</title>
+      <link>https://li-kai.github.io/projects/nusmods/</link>
+      <pubDate>Fri, 13 Jan 2017 03:15:24 +0800</pubDate>
+      
+      <guid>https://li-kai.github.io/projects/nusmods/</guid>
+      <description>&lt;p&gt;NUSMods is the largest student-initiated open-source project in NUS that aims to improves the lives of NUS students with a platform that facilitates module and timetable planning and is used by over 30,000 students in school. I contributed as a core developer in the v3.0 rewrite to React, Redux and Webpack by setting up the front end infrastructure, development workflow and porting features from v2.0 which was written in Marionette and Backbone.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Modify API</title>
+      <link>https://li-kai.github.io/projects/modify-api/</link>
+      <pubDate>Fri, 13 Jan 2017 03:15:01 +0800</pubDate>
+      
+      <guid>https://li-kai.github.io/projects/modify-api/</guid>
+      <description>&lt;p&gt;Backend of Modify which scrapes NTU webpages for data. This is the project in which I learned how web scraping and databases worked.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Modify.sg</title>
+      <link>https://li-kai.github.io/projects/modify/</link>
+      <pubDate>Fri, 13 Jan 2017 02:58:05 +0800</pubDate>
+      
+      <guid>https://li-kai.github.io/projects/modify/</guid>
+      <description>&lt;p&gt;Modify.sg is a flexbox-based, responsive timetable planner for Singapore Universities. Written in Vue, it is the first web project of mine. UI and UX considerations were a major focus while building the website.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Arrowed Me</title>
+      <link>https://li-kai.github.io/projects/arrowed-me/</link>
+      <pubDate>Fri, 13 Jan 2017 01:58:05 +0800</pubDate>
+      
+      <guid>https://li-kai.github.io/projects/arrowed-me/</guid>
+      <description>&lt;p&gt;Arrowed Me is an Android app for people to schedule tasks by requesting tasks from peers. Built on top of Firebase, it incorporated many authentication APIs that explored various ways of verifying a user’s identity.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
