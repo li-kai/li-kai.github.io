@@ -456,7 +456,7 @@ body {
   text-decoration: none; }
 
 .intro {
-  height: calc(100% - 3rem);
+  height: 100%;
   background: #085078;
   /* fallback for old browsers */
   background: linear-gradient(135deg, #085078, #85D8CE);
