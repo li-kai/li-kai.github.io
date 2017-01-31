@@ -27,7 +27,7 @@ body {
 }
 
 .nav {
-  height: 100%;
+  height: calc(100% - 3rem);
   display: flex;
   align-items: center;
   justify-content: flex-end;
